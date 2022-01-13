@@ -12,3 +12,4 @@
 | Date | Notebook | Topics | [*Mathematical Python*](http://www.math.ubc.ca/~pwalls/math-python) |
 | :---: | :---: | :---: | :---: |
 | January 10 | [notes_2022_01_10.ipynb](notes_2022_01_10.ipynb) | Welcome to MATH 210! | - |
+| January 12 | [notes_2022_01_12.ipynb](notes_2022_01_12.ipynb) | Jupyter notebooks and markdown | [Jupyter](https://personal.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) and [markdown](https://personal.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) |
