@@ -15,3 +15,5 @@
 | January 12 | [notes_2022_01_12.ipynb](notes_2022_01_12.ipynb) | Jupyter notebooks and markdown | [Jupyter](https://personal.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) and [markdown](https://personal.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) |
 | January 14 | [notes_2022_01_14.ipynb](notes_2022_01_14.ipynb) | LaTeX | [LaTeX](https://personal.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
 | January 17 | [notes_2022_01_17.ipynb](notes_2022_01_17.ipynb) | Numeric types | [Numbers](https://personal.math.ubc.ca/~pwalls/math-python/python/numbers/) and [Variables](https://personal.math.ubc.ca/~pwalls/math-python/python/variables/) |
+| January 19 | [notes_2022_01_19.ipynb](notes_2022_01_19.ipynb) | Sequences | [Sequences](https://personal.math.ubc.ca/~pwalls/math-python/python/sequences/) |
+| January 21 | [notes_2022_01_21.ipynb](notes_2022_01_21.ipynb) | Sequences and functions | [Sequences](https://personal.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](https://personal.math.ubc.ca/~pwalls/math-python/python/functions/) |
