@@ -18,3 +18,4 @@
 | January 19 | [notes_2022_01_19.ipynb](notes_2022_01_19.ipynb) | Sequences | [Sequences](https://personal.math.ubc.ca/~pwalls/math-python/python/sequences/) |
 | January 21 | [notes_2022_01_21.ipynb](notes_2022_01_21.ipynb) | Sequences and functions | [Sequences](https://personal.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](https://personal.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | January 24 | [notes_2022_01_24.ipynb](notes_2022_01_24.ipynb) | More about functions | [Functions](https://personal.math.ubc.ca/~pwalls/math-python/python/functions/) |
+| January 26 | [notes_2022_01_26.ipynb](notes_2022_01_26.ipynb) | Logic | [Logic](https://personal.math.ubc.ca/~pwalls/math-python/python/logic/) |
