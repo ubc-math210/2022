@@ -21,3 +21,4 @@
 | January 26 | [notes_2022_01_26.ipynb](notes_2022_01_26.ipynb) | Logic | [Logic](https://personal.math.ubc.ca/~pwalls/math-python/python/logic/) |
 | January 28 | [notes_2022_01_28.ipynb](notes_2022_01_28.ipynb) | for loops | [Loops](https://personal.math.ubc.ca/~pwalls/math-python/python/loops/) |
 | January 31 | [notes_2022_01_31.ipynb](notes_2022_01_31.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
+| February 2 | [notes_2022_02_02.ipynb](notes_2022_02_02.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
