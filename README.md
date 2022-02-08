@@ -22,4 +22,5 @@
 | January 28 | [notes_2022_01_28.ipynb](notes_2022_01_28.ipynb) | for loops | [Loops](https://personal.math.ubc.ca/~pwalls/math-python/python/loops/) |
 | January 31 | [notes_2022_01_31.ipynb](notes_2022_01_31.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
 | February 2 | [notes_2022_02_02.ipynb](notes_2022_02_02.ipynb) | Sequences | [Sequences](https://en.wikipedia.org/wiki/Sequence) |
-| February 2 | [notes_2022_02_04.ipynb](notes_2022_02_04.ipynb) | Taylor series | [Taylor series](https://en.wikipedia.org/wiki/Taylor_series) |
+| February 4 | [notes_2022_02_04.ipynb](notes_2022_02_04.ipynb) | Taylor series | [Taylor series](https://en.wikipedia.org/wiki/Taylor_series) |
+| February 7 | [notes_2022_02_07.ipynb](notes_2022_02_07.ipynb) | Bisection method | [Bisection method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
