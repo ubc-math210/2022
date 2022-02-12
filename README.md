@@ -25,3 +25,4 @@
 | February 4 | [notes_2022_02_04.ipynb](notes_2022_02_04.ipynb) | Taylor series | [Taylor series](https://en.wikipedia.org/wiki/Taylor_series) |
 | February 7 | [notes_2022_02_07.ipynb](notes_2022_02_07.ipynb) | Bisection method | [Bisection method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
 | February 9 | [notes_2022_02_09.ipynb](notes_2022_02_09.ipynb) | Newton's method | [Newton's method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/) |
+| February 11 | [notes_2022_02_11.ipynb](notes_2022_02_11.ipynb) | Secant method | [Secant method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/secant/) |
