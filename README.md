@@ -26,3 +26,4 @@
 | February 7 | [notes_2022_02_07.ipynb](notes_2022_02_07.ipynb) | Bisection method | [Bisection method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
 | February 9 | [notes_2022_02_09.ipynb](notes_2022_02_09.ipynb) | Newton's method | [Newton's method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/) |
 | February 11 | [notes_2022_02_11.ipynb](notes_2022_02_11.ipynb) | Secant method | [Secant method](https://personal.math.ubc.ca/~pwalls/math-python/roots-optimization/secant/) |
+| February 14 | [notes_2022_02_14.ipynb](notes_2022_02_14.ipynb) | NumPy and Matplotlib | [NumPy](https://personal.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotoib](https://personal.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
