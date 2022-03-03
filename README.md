@@ -29,3 +29,4 @@
 | February 14 | [notes_2022_02_14.ipynb](notes_2022_02_14.ipynb) | NumPy and Matplotlib | [NumPy](https://personal.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](https://personal.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
 | February 18 | [notes_2022_02_18.ipynb](notes_2022_02_18.ipynb) | More NumPy and Matplotlib | [NumPy](https://personal.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](https://personal.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
 | February 28 | [notes_2022_02_28.ipynb](notes_2022_02_28.ipynb) | Riemann sums | [Riemann sums](https://personal.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
+| March 2 | [notes_2022_03_02.ipynb](notes_2022_03_02.ipynb) | Riemann sum error formula | [Riemann sums](https://personal.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
