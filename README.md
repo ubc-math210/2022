@@ -35,3 +35,4 @@
 | March 9 | [notes_2022_03_09.ipynb](notes_2022_03_09.ipynb) | Simpson's rule | [Simpson's rule](https://personal.math.ubc.ca/~pwalls/math-python/integration/simpsons-rule/) |
 | March 11 | [notes_2022_03_11.ipynb](notes_2022_03_11.ipynb) | More integration examples | [Numerical integration](https://personal.math.ubc.ca/~pwalls/math-python/integration/) |
 | March 14 | [notes_2022_03_14.ipynb](notes_2022_03_14.ipynb) | Differential equations and slope fields | [Numerical integration](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| March 16 | [notes_2022_03_16.ipynb](notes_2022_03_16.ipynb) | Euler's method | [Euler's method](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
