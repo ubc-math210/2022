@@ -37,3 +37,4 @@
 | March 14 | [notes_2022_03_14.ipynb](notes_2022_03_14.ipynb) | Differential equations and slope fields | [Numerical integration](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | March 16 | [notes_2022_03_16.ipynb](notes_2022_03_16.ipynb) | Euler's method | [Euler's method](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | March 18 | [notes_2022_03_18.ipynb](notes_2022_03_18.ipynb) | Order of error | [Euler's method](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| March 21 | [notes_2022_03_21.ipynb](notes_2022_03_21.ipynb) | Improved Euler's method | [Improved Euler's method](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
