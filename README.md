@@ -41,3 +41,4 @@
 | March 23 | [notes_2022_03_23.ipynb](notes_2022_03_23.ipynb) | Midpoint method | [Midpoint method](https://personal.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | March 28 | [notes_2022_03_28.ipynb](notes_2022_03_28.ipynb) | Systems of ODEs | [Systems of ODEs](https://en.wikipedia.org/wiki/System_of_differential_equations) |
 | March 30 | [notes_2022_03_30.ipynb](notes_2022_03_30.ipynb) | Systems of ODEs | [Systems of ODEs](https://en.wikipedia.org/wiki/System_of_differential_equations) |
+| April 1 | [notes_2022_04_01.ipynb](notes_2022_04_01.ipynb) | Linear algebra | [Linear algebra](https://personal.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/) |
