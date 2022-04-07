@@ -43,3 +43,4 @@
 | March 30 | [notes_2022_03_30.ipynb](notes_2022_03_30.ipynb) | Systems of ODEs | [Systems of ODEs](https://en.wikipedia.org/wiki/System_of_differential_equations) |
 | April 1 | [notes_2022_04_01.ipynb](notes_2022_04_01.ipynb) | Linear algebra | [Linear algebra](https://personal.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/) |
 | April 4 | [notes_2022_04_04.ipynb](notes_2022_04_04.ipynb) | Interpolation | [Applications](https://personal.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
+| April 6 | [notes_2022_04_06.ipynb](notes_2022_04_06.ipynb) | Regression | [Applications](https://personal.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
